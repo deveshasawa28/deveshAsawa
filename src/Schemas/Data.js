@@ -92,7 +92,7 @@ export const Data = {
       {
         career: "Master of Computer Applications",
         date: "2020",
-        institution: "University Of Kota Kota",
+        institution: "University Of Kota, Kota",
       },
     ],
     projects: [
