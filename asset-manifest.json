@@ -1,15 +1,15 @@
 {
-  "main.css": "/deveshAsawaResume/static/css/main.60f7fcca.chunk.css",
-  "main.js": "/deveshAsawaResume/static/js/main.2294dbb5.chunk.js",
-  "main.js.map": "/deveshAsawaResume/static/js/main.2294dbb5.chunk.js.map",
-  "static/js/1.f3e236b6.chunk.js": "/deveshAsawaResume/static/js/1.f3e236b6.chunk.js",
-  "static/js/1.f3e236b6.chunk.js.map": "/deveshAsawaResume/static/js/1.f3e236b6.chunk.js.map",
-  "static/js/2.469ad792.chunk.js": "/deveshAsawaResume/static/js/2.469ad792.chunk.js",
-  "static/js/2.469ad792.chunk.js.map": "/deveshAsawaResume/static/js/2.469ad792.chunk.js.map",
-  "runtime~main.js": "/deveshAsawaResume/static/js/runtime~main.af2af064.js",
-  "runtime~main.js.map": "/deveshAsawaResume/static/js/runtime~main.af2af064.js.map",
-  "static/css/main.60f7fcca.chunk.css.map": "/deveshAsawaResume/static/css/main.60f7fcca.chunk.css.map",
-  "index.html": "/deveshAsawaResume/index.html",
-  "precache-manifest.f114d0c3aaaba0e5329f7379a3ea306c.js": "/deveshAsawaResume/precache-manifest.f114d0c3aaaba0e5329f7379a3ea306c.js",
-  "service-worker.js": "/deveshAsawaResume/service-worker.js"
+  "main.css": "/deveshAsawa/static/css/main.60f7fcca.chunk.css",
+  "main.js": "/deveshAsawa/static/js/main.4057a203.chunk.js",
+  "main.js.map": "/deveshAsawa/static/js/main.4057a203.chunk.js.map",
+  "static/js/1.f3e236b6.chunk.js": "/deveshAsawa/static/js/1.f3e236b6.chunk.js",
+  "static/js/1.f3e236b6.chunk.js.map": "/deveshAsawa/static/js/1.f3e236b6.chunk.js.map",
+  "static/js/2.469ad792.chunk.js": "/deveshAsawa/static/js/2.469ad792.chunk.js",
+  "static/js/2.469ad792.chunk.js.map": "/deveshAsawa/static/js/2.469ad792.chunk.js.map",
+  "runtime~main.js": "/deveshAsawa/static/js/runtime~main.b81ffddc.js",
+  "runtime~main.js.map": "/deveshAsawa/static/js/runtime~main.b81ffddc.js.map",
+  "static/css/main.60f7fcca.chunk.css.map": "/deveshAsawa/static/css/main.60f7fcca.chunk.css.map",
+  "index.html": "/deveshAsawa/index.html",
+  "precache-manifest.4bf629ba815810bc97e1ec8356561f2b.js": "/deveshAsawa/precache-manifest.4bf629ba815810bc97e1ec8356561f2b.js",
+  "service-worker.js": "/deveshAsawa/service-worker.js"
 }
