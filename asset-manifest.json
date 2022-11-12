@@ -1,15 +1,15 @@
 {
-  "main.css": "/deveshasawa28/deveshAsawaResume/static/css/main.60f7fcca.chunk.css",
-  "main.js": "/deveshasawa28/deveshAsawaResume/static/js/main.2294dbb5.chunk.js",
-  "main.js.map": "/deveshasawa28/deveshAsawaResume/static/js/main.2294dbb5.chunk.js.map",
-  "static/js/1.f3e236b6.chunk.js": "/deveshasawa28/deveshAsawaResume/static/js/1.f3e236b6.chunk.js",
-  "static/js/1.f3e236b6.chunk.js.map": "/deveshasawa28/deveshAsawaResume/static/js/1.f3e236b6.chunk.js.map",
-  "static/js/2.469ad792.chunk.js": "/deveshasawa28/deveshAsawaResume/static/js/2.469ad792.chunk.js",
-  "static/js/2.469ad792.chunk.js.map": "/deveshasawa28/deveshAsawaResume/static/js/2.469ad792.chunk.js.map",
-  "runtime~main.js": "/deveshasawa28/deveshAsawaResume/static/js/runtime~main.c09e7a7e.js",
-  "runtime~main.js.map": "/deveshasawa28/deveshAsawaResume/static/js/runtime~main.c09e7a7e.js.map",
-  "static/css/main.60f7fcca.chunk.css.map": "/deveshasawa28/deveshAsawaResume/static/css/main.60f7fcca.chunk.css.map",
-  "index.html": "/deveshasawa28/deveshAsawaResume/index.html",
-  "precache-manifest.1577a417f90c1a6416fc5fced345abcb.js": "/deveshasawa28/deveshAsawaResume/precache-manifest.1577a417f90c1a6416fc5fced345abcb.js",
-  "service-worker.js": "/deveshasawa28/deveshAsawaResume/service-worker.js"
+  "main.css": "/deveshAsawaResume/static/css/main.60f7fcca.chunk.css",
+  "main.js": "/deveshAsawaResume/static/js/main.2294dbb5.chunk.js",
+  "main.js.map": "/deveshAsawaResume/static/js/main.2294dbb5.chunk.js.map",
+  "static/js/1.f3e236b6.chunk.js": "/deveshAsawaResume/static/js/1.f3e236b6.chunk.js",
+  "static/js/1.f3e236b6.chunk.js.map": "/deveshAsawaResume/static/js/1.f3e236b6.chunk.js.map",
+  "static/js/2.469ad792.chunk.js": "/deveshAsawaResume/static/js/2.469ad792.chunk.js",
+  "static/js/2.469ad792.chunk.js.map": "/deveshAsawaResume/static/js/2.469ad792.chunk.js.map",
+  "runtime~main.js": "/deveshAsawaResume/static/js/runtime~main.af2af064.js",
+  "runtime~main.js.map": "/deveshAsawaResume/static/js/runtime~main.af2af064.js.map",
+  "static/css/main.60f7fcca.chunk.css.map": "/deveshAsawaResume/static/css/main.60f7fcca.chunk.css.map",
+  "index.html": "/deveshAsawaResume/index.html",
+  "precache-manifest.f114d0c3aaaba0e5329f7379a3ea306c.js": "/deveshAsawaResume/precache-manifest.f114d0c3aaaba0e5329f7379a3ea306c.js",
+  "service-worker.js": "/deveshAsawaResume/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/deveshasawa28/deveshAsawaResume/precache-manifest.1577a417f90c1a6416fc5fced345abcb.js"
+  "/deveshAsawaResume/precache-manifest.f114d0c3aaaba0e5329f7379a3ea306c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/deveshasawa28/deveshAsawaResume/index.html", {
+workbox.routing.registerNavigationRoute("/deveshAsawaResume/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
