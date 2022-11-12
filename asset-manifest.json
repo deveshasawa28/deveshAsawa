@@ -1,7 +1,7 @@
 {
   "main.css": "/deveshAsawa/static/css/main.bce87faf.chunk.css",
-  "main.js": "/deveshAsawa/static/js/main.8f9df319.chunk.js",
-  "main.js.map": "/deveshAsawa/static/js/main.8f9df319.chunk.js.map",
+  "main.js": "/deveshAsawa/static/js/main.c4c68c84.chunk.js",
+  "main.js.map": "/deveshAsawa/static/js/main.c4c68c84.chunk.js.map",
   "runtime~main.js": "/deveshAsawa/static/js/runtime~main.6f596ed7.js",
   "runtime~main.js.map": "/deveshAsawa/static/js/runtime~main.6f596ed7.js.map",
   "static/js/2.c5f8231f.chunk.js": "/deveshAsawa/static/js/2.c5f8231f.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.eb6fb1c8.chunk.js": "/deveshAsawa/static/js/3.eb6fb1c8.chunk.js",
   "static/js/3.eb6fb1c8.chunk.js.map": "/deveshAsawa/static/js/3.eb6fb1c8.chunk.js.map",
   "index.html": "/deveshAsawa/index.html",
-  "precache-manifest.4e334ff9fb009fd8b5ed835d1146f81f.js": "/deveshAsawa/precache-manifest.4e334ff9fb009fd8b5ed835d1146f81f.js",
+  "precache-manifest.ced64a2f5d4f55de7587462e2ac52bd5.js": "/deveshAsawa/precache-manifest.ced64a2f5d4f55de7587462e2ac52bd5.js",
   "service-worker.js": "/deveshAsawa/service-worker.js",
   "static/css/main.bce87faf.chunk.css.map": "/deveshAsawa/static/css/main.bce87faf.chunk.css.map"
 }
