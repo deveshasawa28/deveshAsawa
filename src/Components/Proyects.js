@@ -4,7 +4,7 @@ import { Description } from "./Description";
 export const Proyects = ({ projects }) => {
   return (
     <section className="projects-experience section" id="projects">
-      <h2 className="section-title">Proyectos</h2>
+      <h2 className="section-title">PROJECTS</h2>
       <div className="experience__container bd-grid">
         {projects.map((proyect) => (
           <Proyect key={proyect.company} {...proyect} />

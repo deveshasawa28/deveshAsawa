@@ -6,7 +6,7 @@ export const Menu = {
       className: "bx-home",
     },
     {
-      label: "Perfil",
+      label: "Profile",
       section: "#profile",
       className: "bx-user",
     },
@@ -16,17 +16,17 @@ export const Menu = {
       className: "bx-receipt",
     },
     {
-      label: "Experiencia",
+      label: "EXPERIENCE",
       section: "#experience",
       className: "bx-briefcase-alt",
     },
     {
-      label: "Educación",
+      label: "EDUCATION",
       section: "#education",
       className: "bx-book",
     },
     {
-      label: "Proyectos",
+      label: "PROJECTS",
       section: "#projects",
       className: "bx-award",
     },
