@@ -6,7 +6,7 @@ Just clone or fork the repository and edit [data.js](https://github.com/Maaato/r
 - Light / Dark mode 🌗
 - Snowflakes mode ❄️
 
-[Preview](https://)
+[Preview](https://deveshasawa28.github.io/deveshAsawa)
 
 ## Getting Started 👋
 ### Built With 🛠️
