@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import { Profile } from "../Components/Profile";
 import { Academic } from "../Components/Academic";
 import { Skills } from "../Components/Skills";
-import { Proyects } from "../Components/Proyects";
+import { Proyects } from "../Components/project"
 import { Works } from "../Components/Works";
 import { SocialMedia } from "../Components/SocialMedia";
 import { AboutMe } from "../Components/AboutMe";

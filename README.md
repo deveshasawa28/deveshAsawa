@@ -6,7 +6,7 @@ Just clone or fork the repository and edit [data.js](https://github.com/Maaato/r
 - Light / Dark mode 🌗
 - Snowflakes mode ❄️
 
-[Preview](https://react-resume-rho.vercel.app)
+[Preview](https://)
 
 ## Getting Started 👋
 ### Built With 🛠️
