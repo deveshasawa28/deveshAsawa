@@ -26,10 +26,7 @@ $ yarn install
 # dev mode
 $ yarn start or npm run start
 ```
-
-### Features 💡
-- [Generate-CV-PDF](https://github.com/Maaato/react-resume/tree/feature/cv-pdf-generator)
-
+ 
 ## License :memo:
 
 This project is [MIT](LICENCE) licensed.
